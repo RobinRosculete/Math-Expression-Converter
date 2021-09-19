@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Robin\Desktop\Proiecte\Expression Converter\LAB 8!\main.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robin\Desktop\Proiecte\Expression Converter\LAB 8!\main.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  TreeClass.cpp
+C:\Users\Robin\Desktop\Proiecte\Expression Converter\LAB 8!\TreeClass.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+  treeHelper.cpp
+  Generating Code...
+  LAB 8!.vcxproj -> C:\Users\Robin\Desktop\Proiecte\Expression Converter\Debug\LAB 8!.exe
