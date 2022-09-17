@@ -7,7 +7,7 @@ using namespace std;
 template<class StackType> class Stack {
 
  public:
-    Stack() : top(-1), StackArray{} {}
+    Stack() : top(-1){}
 	bool isEmpty()const { return top == -1; };
 	bool isFull()const { return top == STACK_SIZE; };
 
