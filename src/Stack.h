@@ -6,14 +6,14 @@ const int STACK_SIZE = 1000;
 using namespace std;
 template<class StackType> class Stack {
 
-public:
-	Stack() : top(-1), StackArray{} {}
+ public:
+    Stack() : top(-1), StackArray{} {}
 	bool isEmpty()const { return top == -1; };
 	bool isFull()const { return top == STACK_SIZE; };
 
 	void push(StackType data);
 	void pop();
-	StackType peek() { return StackArray[top]; };
+	StackType peek() { return StackArray[top];};
 
 private:
 	StackType StackArray[STACK_SIZE];
